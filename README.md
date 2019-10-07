@@ -1,6 +1,6 @@
 # Who's Deleguate ? (Slack Bot) 🇫🇷
 
-This bot was made to display the deleguates of this weeek, we have two classes (one JS and one PHP), so we have 4 deleguates per week. With this bot, everyone can know the deleguates of the week directly on Slack.
+This bot was made to display the deleguates of this week, we have two classes (one JS and one PHP), so we have 4 deleguates per week. With this bot, everyone can know the deleguates of the week directly on Slack.
 
 ![Bot](https://zupimages.net/up/19/41/4rr1.png)   
 (Replace black square by the name you want)
