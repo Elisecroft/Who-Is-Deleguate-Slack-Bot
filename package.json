@@ -1,0 +1,14 @@
+{
+  "name": "whos-deleguate",
+  "version": "1.0.0",
+  "description": "A bot to know who's deleguate of this week",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elise Guezel",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
