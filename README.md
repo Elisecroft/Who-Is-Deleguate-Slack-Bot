@@ -1,4 +1,4 @@
-# Who's Deleguate ? (Slack Bot)
+# Who's Deleguate ? (Slack Bot) 🇫🇷
 
 This bot was made to display the deleguates of this weeek, we have two classes (one JS and one PHP), so we have 4 deleguates per week. With this bot, everyone can know the deleguates of the week directly on Slack.
 
